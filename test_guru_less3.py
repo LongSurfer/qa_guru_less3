@@ -1,5 +1,5 @@
-def first_test_1():
+def test_first_1():
     assert 2>1
 
-def first_test_2():
+def test_second_2():
     assert 3>1
